@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rust Gene Calculator/1.0.0": {
+        "runtime": {
+          "Rust Gene Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rust Gene Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.exe
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.deps.json
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.runtimeconfig.json
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.runtimeconfig.dev.json
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.dll
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\ref\Rust Gene Calculator.dll
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\bin\Debug\net5.0\Rust Gene Calculator.pdb
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.csproj.AssemblyReference.cache
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.AssemblyInfoInputs.cache
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.AssemblyInfo.cs
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.dll
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\ref\Rust Gene Calculator.dll
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.pdb
+C:\Users\TIM\Documents\repositories\Rust Gene Calculator\Rust Gene Calculator\obj\Debug\net5.0\Rust Gene Calculator.genruntimeconfig.cache
